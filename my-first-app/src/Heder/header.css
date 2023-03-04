@@ -1,0 +1,6 @@
+.headercss{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: rgb(229, 83, 5);
+}

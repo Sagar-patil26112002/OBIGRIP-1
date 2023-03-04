@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body 
+{
+    background-color: #cad7fda4;
+      max-width: 100%;
+      overflow-x: hidden;
+}
